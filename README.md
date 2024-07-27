@@ -1,0 +1,2 @@
+# GalacticDiscord
+Repository for Galactic
